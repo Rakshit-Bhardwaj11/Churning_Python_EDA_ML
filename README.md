@@ -4,12 +4,6 @@ This project focuses on predicting customer churn using Machine Learning. It cov
 
 The goal is to identify customers who are likely to leave (churn) and help businesses take proactive actions.
 
-#  Project Structure
-├── Churning EDA.ipynb                 # Exploratory Data Analysis
-├── Churn_prediction_model.ipynb      # Model building & evaluation
-├── tel_churn.csv                      # Dataset (custom/processed)
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Original dataset
-
 # Key Steps in the Project
 
 ### 1. Data Understanding
